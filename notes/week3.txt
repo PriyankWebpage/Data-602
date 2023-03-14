@@ -1,0 +1,7 @@
+
+hw:
+marks:
+
+lab:
+marks: 98
+remarks: Q3 There are other types of supervised learning - eg. Time series, Neural Nets etc 
