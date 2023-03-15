@@ -1,6 +1,6 @@
 
 hw:
-marks:
+marks: 100
 
 lab:
 marks: 98
